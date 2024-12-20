@@ -11,7 +11,7 @@ Upload your image and play with the parameters as you want
 Details: ```Great``` \
 Filters: ```Edge3```
 
-![alt text](https://github.com/AshwinDisa/3d_printed_photo_frame/blob/master/images/image_to_svg.png)
+<img src="https://github.com/AshwinDisa/3d_printed_photo_frame/blob/master/images/image_to_svg.png" height="250">
 
 ## Convert SVG image to STL format 
 **Website**: https://imagetostl.com/#convert
@@ -31,11 +31,13 @@ Width: ```200``` \
 Height: ```140``` \
 Depth: ```3``` 
 
-![alt text](https://github.com/AshwinDisa/3d_printed_photo_frame/blob/master/images/svg_to_stl.png)
+<img src="https://github.com/AshwinDisa/3d_printed_photo_frame/blob/master/images/svg_to_stl.png" height="250">
 
 ## 3D print the frame and back plate 
 
-Upload the STL file to your favorite slicer (I use the Bambu slicer)
+Upload the STL file to your favorite slicer, I use the Bambu Studio slicer
+
+<img src="https://github.com/AshwinDisa/3d_printed_photo_frame/blob/master/images/slicer.png" height="250">
 
 If you do not have access to a 3D printer, you can outsource from 
 
