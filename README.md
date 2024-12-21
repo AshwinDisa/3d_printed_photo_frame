@@ -25,7 +25,7 @@ Tool: ```Extrude``` \
 Detail: ```High``` *# I had access to a powerful 3D printer, reduce if not so* \
 Base: ```0``` 
 
-**Frame Size** # *Follow the dimensions if you want to use the uploaded back plate, Do consider the printer bed size* \
+**Frame Size** # *Follow the dimensions if you want to use along with the box, Do consider the printer bed size* \
 Units: ```Millimeters``` \
 Width: ```200``` \
 Height: ```140``` \
