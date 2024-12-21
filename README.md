@@ -33,15 +33,28 @@ Depth: ```3```
 
 <img src="https://github.com/AshwinDisa/3d_printed_photo_frame/blob/master/images/svg_to_stl.png" height="250">
 
-## 3D print the frame and back plate 
+## 3D print the frame and the box 
 
-Upload the STL file to your favorite slicer, I use the Bambu Studio slicer
+Upload the STL file to your favorite slicer appliction
 
 <img src="https://github.com/AshwinDisa/3d_printed_photo_frame/blob/master/images/slicer.png" height="250">
 
-If you do not have access to a 3D printer, you can outsource from 
-
+If you do not have access to a 3D printer, you can outsource from \
 **Website**: https://a3dxyz.com/ # India
+
+To give an estimate of filament required for the above dimensions \
+Frame - ```21.28 grams, 64.5 meters``` *# will change slightly according to your image* \
+Box - ```43.94 grams, 133.17 meters```
+
+## Final touch
+
+To get a diffused lighting effect, add butter paper sheet at the back of the frame \
+Put any battery powered LED light inside the box
+
+<img src="https://github.com/AshwinDisa/3d_printed_photo_frame/blob/master/images/frame_and_box.png" height="250">
+
+## "Ta-da"
+<img src="https://github.com/AshwinDisa/3d_printed_photo_frame/blob/master/images/final3.jpeg" height="400">
 
 
 
