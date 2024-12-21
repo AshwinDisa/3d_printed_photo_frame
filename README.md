@@ -54,7 +54,7 @@ Put any battery powered LED light inside the box
 <img src="https://github.com/AshwinDisa/3d_printed_photo_frame/blob/master/images/frame_and_box.png" height="250">
 
 ## "Ta-da"
-<img src="https://github.com/AshwinDisa/3d_printed_photo_frame/blob/master/images/final3.jpeg" height="400">
+<img src="https://github.com/AshwinDisa/3d_printed_photo_frame/blob/master/images/image.jpg" height="400">
 
 
 
